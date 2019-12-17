@@ -4,9 +4,8 @@
 
 ### Info
 
-mail: cédric.lesueur@ynov.com
+mail: cedric.lesueur@ynov.com
 github​_username: cedro23
-discord_username: Ced#5209 [Cédric]
 
 ### Spécificités de la VM
 
