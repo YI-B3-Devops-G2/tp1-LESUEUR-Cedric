@@ -2,6 +2,12 @@
 
 1er TP de DevOps basé sur la création de VM et Vagrant.
 
+### Info
+
+mail: cédric.lesueur@ynov.com
+github​_username: cedro23
+discord_username: Ced#5209 [Cédric]
+
 ### Spécificités de la VM
 
 Pour la configuration de la VM, on a :
